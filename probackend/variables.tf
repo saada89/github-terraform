@@ -26,4 +26,4 @@ variable "kv_backend_name" {
 variable "sa_backend_accesskey_name" {
     type = string
     description = "Name of the storage account access key for the backend"
-}
+} // dette er test fra github
